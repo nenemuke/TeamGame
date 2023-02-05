@@ -27,6 +27,10 @@
 		{
 			"Name": "AlterMesh",
 			"Enabled": false
+		},
+		{
+			"Name": "CascadeToNiagaraConverter",
+			"Enabled": true
 		}
 	]
 }
